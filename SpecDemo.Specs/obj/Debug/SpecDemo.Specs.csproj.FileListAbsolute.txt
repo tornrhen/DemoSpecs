@@ -1,0 +1,7 @@
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\bin\Debug\SpecDemo.Specs.dll.config
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\bin\Debug\SpecDemo.Specs.dll
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\bin\Debug\SpecDemo.Specs.pdb
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\obj\Debug\SpecDemo.Specs.csprojResolveAssemblyReference.cache
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\obj\Debug\SpecDemo.Specs.dll
+c:\users\tornrhen\documents\visual studio 2013\Projects\SpecDemo\SpecDemo.Specs\obj\Debug\SpecDemo.Specs.pdb
